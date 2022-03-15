@@ -1,5 +1,8 @@
 # Fusée Gelée
 
+note: sudo python3 ./fusee-launcher.py ./fusee-test.bin
+
+
 ```
                                       *     .--.
                                            / /  `
